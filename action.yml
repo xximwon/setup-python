@@ -40,4 +40,4 @@ runs:
   post-if: success()
 branding:
   icon: 'code'
-  color: 'yellow'
+  color: 'yellow' 
